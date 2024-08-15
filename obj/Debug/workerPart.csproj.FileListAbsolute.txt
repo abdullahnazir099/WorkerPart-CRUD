@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\workerPart\bin\Debug\workerPart.exe.config
+C:\Users\Administrator\source\repos\workerPart\bin\Debug\workerPart.exe
+C:\Users\Administrator\source\repos\workerPart\bin\Debug\workerPart.pdb
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.Form1.resources
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.Properties.Resources.resources
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.exe
+C:\Users\Administrator\source\repos\workerPart\obj\Debug\workerPart.pdb
